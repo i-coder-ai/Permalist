@@ -49,7 +49,7 @@ To run Permalist locally on your machine:
 4. **Start the server**
 
    ```bash
-   node index.js
+   node app.js
    ```
 
 5. **Visit in browser**
@@ -67,3 +67,36 @@ To run Permalist locally on your machine:
 ---
 
 ## 📁 Folder Structure
+
+```
+/Permalist
+│
+├── views/           → EJS templates
+├── public/          → CSS, JS, assets
+├── db/              → DB config or queries (optional)
+├── app.js           → Main server file
+├── package.json     → Node dependencies
+├── .env             → Environment variables (not committed)
+└── README.md        → Project info
+```
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and improvements are welcome! Feel free to fork the repo and open a PR.
+
+---
+
+## 📬 Contact
+
+**Author**: Priyanshu Kumar Sah
+**Email**: [priyanshukumarsah476@gmail.com](mailto:priyanshukumarsah476@gmail.com)
+**LinkedIn**: [linkedin.com/in/priyanshu-kumar-sah](https://www.linkedin.com/in/priyanshukumarsah18/)
+
+```
+
+---
+
+Let me know your actual GitHub repo link and deployed URL — I’ll fill it in for you. Or would you like me to generate the `README.md` file ready to upload?
+```
