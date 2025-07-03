@@ -49,7 +49,7 @@ To run Permalist locally on your machine:
 4. **Start the server**
 
    ```bash
-   node app.js
+   node index.js
    ```
 
 5. **Visit in browser**
