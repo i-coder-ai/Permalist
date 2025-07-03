@@ -1,6 +1,3 @@
----
-
-````markdown
 # ✅ Permalist – A Full Stack To-Do List App
 
 Permalist is a simple and efficient to-do list web application that allows users to create, update, and delete tasks. It’s built using a full stack JavaScript architecture and connected to a PostgreSQL database for persistent storage.
