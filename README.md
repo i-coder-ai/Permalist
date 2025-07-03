@@ -95,8 +95,3 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork the 
 **LinkedIn**: [linkedin.com/in/priyanshu-kumar-sah](https://www.linkedin.com/in/priyanshukumarsah18/)
 
 ```
-
----
-
-Let me know your actual GitHub repo link and deployed URL — I’ll fill it in for you. Or would you like me to generate the `README.md` file ready to upload?
-```
